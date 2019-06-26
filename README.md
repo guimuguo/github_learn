@@ -3,3 +3,4 @@ This repo is for learning how to use github
 ### git is the best version control tool
 - feature-A
 - fix-B
+- feature-C
